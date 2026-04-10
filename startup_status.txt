@@ -1,0 +1,8 @@
+
+    Scrape Summary:
+    Home: 5744 chars
+    About: 2965 chars
+    Career: 4167 chars
+    Blog: 606 chars
+    Services: 7 items found
+    
