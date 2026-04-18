@@ -198,7 +198,6 @@ def match_service(user_message):
 # URL MATCHER
 # ==========================
 def match_service_url(user_message):
-
     url_pattern = r'https?://[^\s]+'
     urls = re.findall(url_pattern, user_message)
 
